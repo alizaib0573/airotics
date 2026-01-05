@@ -28,7 +28,7 @@ export default function Home() {
       <Work />
       <Partners />
       {/* <Review /> */}
-      <Blog />
+      {/* <Blog /> */}
       <Faqs />
       <Extro />
     </>
