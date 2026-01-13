@@ -21,7 +21,7 @@ const Partners = () => {
             <ArrowDownLeft />
           </div>
         </div>
-        <div className="order-3 col-span-12 mt-8 grid grid-cols-3 items-center justify-center lg:flex lg:flex-wrap">
+        {/* <div className="order-3 col-span-12 mt-8 grid grid-cols-3 items-center justify-center lg:flex lg:flex-wrap">
           {[...Array(15)].map((_elem, index) => {
             return (
               <Image
@@ -34,7 +34,7 @@ const Partners = () => {
               />
             );
           })}
-        </div>
+        </div> */}
       </section>
     </div>
   );

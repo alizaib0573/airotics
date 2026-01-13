@@ -26,7 +26,7 @@ const AgencyPage = () => {
       <Approach />
       <Partners />
       {/* <Award /> */}
-      <Team />
+      {/* <Team /> */}
       <div className="bg-black lg:pt-[5vw]">
         <Interested />
       </div>
