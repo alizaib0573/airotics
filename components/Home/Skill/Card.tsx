@@ -86,7 +86,7 @@ const Card: React.FC<Props> = ({ description, imgUrl, id, title }) => {
             {title}
           </h2>
         </div>
-        <div className="image-block max-w-[480px] py-4 lg:absolute lg:top-0 lg:left-0 lg:z-[2] lg:w-[30%] lg:scale-0 2xl:top-1/2 2xl:-translate-y-1/2">
+        {/* <div className="image-block max-w-[480px] py-4 lg:absolute lg:top-0 lg:left-0 lg:z-[2] lg:w-[30%] lg:scale-0 2xl:top-1/2 2xl:-translate-y-1/2">
           <Image
             className="aspect-square rounded-2xl"
             src={imgUrl}
@@ -94,7 +94,7 @@ const Card: React.FC<Props> = ({ description, imgUrl, id, title }) => {
             height={720}
             width={720}
           />
-        </div>
+        </div> */}
         <p className="desc relative z-10 text-lg lg:w-[30%] lg:text-3xl lg:opacity-0">
           {description}
         </p>

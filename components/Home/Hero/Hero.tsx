@@ -45,7 +45,7 @@ const Hero = () => {
           <strong>dare to transform.</strong>
         </h2>
       </div>
-      <div className="logos 3xl:-translate-x-1/2 3xl:left-1/2 3xl:w-full col-span-12 mt-9 flex gap-4 pb-6 opacity-0 lg:absolute lg:bottom-[26px] lg:left-[26px] lg:mt-0 lg:h-[35px] lg:gap-8 lg:pb-0 2xl:h-[44px] 2xl:max-w-[2450px] 2xl:gap-6">
+      {/* <div className="logos 3xl:-translate-x-1/2 3xl:left-1/2 3xl:w-full col-span-12 mt-9 flex gap-4 pb-6 opacity-0 lg:absolute lg:bottom-[26px] lg:left-[26px] lg:mt-0 lg:h-[35px] lg:gap-8 lg:pb-0 2xl:h-[44px] 2xl:max-w-[2450px] 2xl:gap-6">
         {logos.map(({ alt, src }, index) => {
           return (
             <Image
@@ -58,7 +58,7 @@ const Hero = () => {
             />
           );
         })}
-      </div>
+      </div> */}
     </section>
   );
 };

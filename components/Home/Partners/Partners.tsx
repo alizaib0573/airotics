@@ -18,7 +18,7 @@ const Partners = () => {
           </div>
         </div>
         <div>
-          <Marquee>
+          {/* <Marquee>
             {[...Array(10)].map((_elem, index) => {
               return (
                 <Image
@@ -31,7 +31,7 @@ const Partners = () => {
                 />
               );
             })}
-          </Marquee>
+          </Marquee> */}
         </div>
       </section>
     </div>

@@ -37,7 +37,7 @@ export const works: Work[] = [
         heading: "Sprite",
         description:
           "",
-        imgSrc: "/home/work/tech-detail-1-1.jpg",
+        imgSrc: "/home/work/sprite-1.png",
         isPlayActive: true,
         videoSrc: "/work/video/sprite.mp4",
       },
@@ -45,7 +45,7 @@ export const works: Work[] = [
         heading: "Addidas",
         description:
           "",
-        imgSrc: "/home/work/tech-detail-1-2.jpg",
+        imgSrc: "/home/work/adidas.png",
         isPlayActive: true,
         videoSrc: "/work/video/addidas.mp4",
       },
@@ -53,15 +53,15 @@ export const works: Work[] = [
         heading: "Lotte Castle",
         description:
           "",
-        imgSrc: "/home/work/tech-detail-1-3.jpg",
+        imgSrc: "/home/work/lottie-castle.png",
         isPlayActive: true,
         videoSrc: "/work/video/lotte.mp4",
       },
       {
-        heading: "Cloud Castle",
+        heading: "Cloud Castles",
         description:
           "",
-        imgSrc: "/home/work/tech-detail-1-4.jpg",
+        imgSrc: "/home/work/cloud-castles.png",
         isPlayActive: true,
         videoSrc: "/work/video/cloudcastle.mp4",
       },
